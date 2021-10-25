@@ -162,7 +162,7 @@ function left_thrust()
   fuel-=1;
 }
 
-function stop()
+function notStop()
 {
   vx = 0;
   vy = 0;
